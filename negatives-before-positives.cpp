@@ -2,7 +2,7 @@
 using namespace std;
 
 void func(vector<int> &arr) {
-    vector<int> a,b;
+    vector<int> a,b; 
     for(auto x:arr) {
         if(x<0) {
             a.push_back(x);
