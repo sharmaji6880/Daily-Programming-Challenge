@@ -1,3 +1,5 @@
+//Problem Statement
+//Find the number of occurences of a given element in a sorted array
 #include <iostream>
 #include <vector>
 using namespace std;
