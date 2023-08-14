@@ -1,3 +1,5 @@
+//Problem Statement
+//Find the first subarray that adds to a given target in an array of non-negative integers
 #include <iostream>
 #include <vector>
 using namespace std;
