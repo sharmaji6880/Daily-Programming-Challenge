@@ -62,6 +62,10 @@ int toDecimal(string &s) {
               ans+=1000;
               break;
               
+            default:
+              cout<<"Invalid Input";
+              return -1;
+              
         }
     }
     return ans;
@@ -71,6 +75,9 @@ int main() {
     string s;
     cout<<"Enter the roman number you want to convert to decimal:\n";
     cin>>s;
+    if(toDecimal(s)==-1) {
+        return 0;
+    }
     cout<<"The decimal notation of the roman number "<<s<<" is:\n"<<toDecimal(s);
 
     return 0;
