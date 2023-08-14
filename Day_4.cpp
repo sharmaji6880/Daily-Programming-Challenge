@@ -1,3 +1,5 @@
+//Problem Statement
+//Rearrange all the elements of an array such that all the negative numbers come before the positive numbers
 #include <bits/stdc++.h>
 using namespace std;
 
