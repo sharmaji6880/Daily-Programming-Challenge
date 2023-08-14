@@ -1,3 +1,6 @@
+//Problem Statement
+//Find the number of pairs in an array whose sum is equal to a given target
+
 #include <bits/stdc++.h>
 using namespace std;
 
