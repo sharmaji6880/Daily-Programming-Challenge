@@ -1,3 +1,5 @@
+//Problem Statement
+//Reverse a string word by word
 #include <iostream>
 #include <string>
 #include <vector>
