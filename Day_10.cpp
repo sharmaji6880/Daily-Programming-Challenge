@@ -1,3 +1,5 @@
+//Problem Statement
+//Find the first non-repeated character in a string. Return -1 if no such character exists
 #include <iostream>
 #include <string>
 #include <map>
