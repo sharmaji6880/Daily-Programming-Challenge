@@ -1,3 +1,5 @@
+//Problem Statement
+//Rotate the array left N times.Accept N value from the user.
 #include <iostream>
 #include <vector>
 using namespace std;
