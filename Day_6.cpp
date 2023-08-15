@@ -1,3 +1,5 @@
+//Problem Statement
+//Find the largest and smallest element in an array
 #include <iostream>
 #include <vector>
 using namespace std;
