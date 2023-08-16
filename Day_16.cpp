@@ -4,9 +4,6 @@
 #include <cmath>
 using namespace std;
 int gcd(int m,int n) {
-    int mx,mn;
-    mx=max(m,n);
-    mn=min(m,n);
     while(m%n) {
         int x=m%n;
         m=n;
