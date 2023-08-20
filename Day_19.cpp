@@ -1,3 +1,5 @@
+//Problem Statement
+//Write a program to find the next greater element for every element in the array
 #include <iostream>
 #include <vector>
 #include <stack>
