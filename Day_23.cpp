@@ -1,5 +1,9 @@
+//Problem Statement
+//Given an integer k and a queue of integers.The task is to reverse the order of the first k elements of the queue,leaving the other elements in the same relative
+//order.
 #include <iostream>
 #include <queue>
+#include <vector>
 using namespace std;
 
 void reverseOrder(queue<int> &q,int k) {
