@@ -1,5 +1,5 @@
 //Problem Statement
-//Write a program to find the GCD(greatest common divisor) of two integers.
+//Write a program to find the GCD(greatest common divisor) of two integers
 #include <iostream>
 #include <cmath>
 using namespace std;
