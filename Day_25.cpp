@@ -1,5 +1,5 @@
 //You are given a binary tree.A binary tree is considered balanced if the heights of the two subtrees of any node never differ by more than 1.
-//Write a code to determine if a given binary tree is balanced or not.
+//Write a code to determine if a given binary tree is balanced or not
 #include <iostream>
 #include <vector>
 using namespace std;
