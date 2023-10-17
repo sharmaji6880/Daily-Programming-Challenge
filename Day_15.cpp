@@ -18,6 +18,7 @@ bool areIsomorphic(string &s,string &t) {
 			}
 		}
 	}
+	
 	return true;
 }
 
