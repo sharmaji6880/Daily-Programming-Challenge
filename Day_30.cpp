@@ -1,5 +1,5 @@
 //Problem Statement
-//Given a binary tree and a key, write a function that returns level of the key
+//Given a binary tree and a key, write a function that returns level of the key.
 #include <iostream>
 #include <queue>
 #include <vector>
