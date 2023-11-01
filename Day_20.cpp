@@ -1,6 +1,6 @@
 //Problem Statement
 //Given a sequence of n strings. If any two similar strings come together in the sequence,they destroy each other.Print the number of words left in the sequence after
-//all possible pairwise destructions.
+//all possible pairwise destructions
 #include <iostream>
 #include <string>
 #include <vector>
