@@ -1,5 +1,5 @@
 //Problem Statement
-//Write a program to find the nth root of m.If nth root of m is not an integer, return -1
+//Write a program to find the nth root of m.If nth root of m is not an integer, return -1.
 #include <iostream>
 #include <cmath>
 using namespace std;
