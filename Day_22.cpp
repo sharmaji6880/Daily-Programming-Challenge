@@ -3,6 +3,7 @@
 #include <map>
 #include <stack>
 using namespace std;
+//Below is the code
 
 int findClosingIndex(string &s,int n) {
 	map<char,char> m = {
