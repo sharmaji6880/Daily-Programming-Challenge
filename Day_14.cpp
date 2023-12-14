@@ -1,5 +1,5 @@
 //Problem Statement
-//Given a string of lowercase alphabets, count all possible substrings(not necessarily distinct) that have exactly k distinct characters
+//Given a string of lowercase alphabets, count all possible substrings(not necessarily distinct) that have exactly k distinct characters.
 #include <bits/stdc++.h>
 using namespace std;
 
