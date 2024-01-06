@@ -1,5 +1,5 @@
 //Problem Statement
-//Check whether a given graph is bipartite or not
+//Check whether a given graph is bipartite or not.
 #include <iostream>
 #include <vector>
 #include <queue>
