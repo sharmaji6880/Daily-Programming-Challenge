@@ -1,5 +1,5 @@
 //Problem Statement
-//Write a program to check if a given integer belongs to the Fibonacci sequence or not
+//Write a program to check if a given integer belongs to the Fibonacci sequence or not.
 #include <iostream>
 using namespace std;
 
