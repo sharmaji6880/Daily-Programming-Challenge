@@ -1,7 +1,7 @@
 //Problem Statement
 //Given a stack.Write a program to delete the mid element without using any additional data structure
 //In this approach, the "removeMiddle" function only uses an extra stack to keep track of the popped elements and uses no additional data structure
-//I have used vectors but just for the sake of printing the stacks which requires either an additional data structure or recursion.
+//I have used vectors but just for the sake of printing the stacks which requires either an additional data structure or recursion
 #include <iostream>
 #include <stack>
 #include <vector>
