@@ -1,5 +1,5 @@
 //Problem Statement
-//A string consists of opening and closing brackets.Write a program to check whether the string is balanced
+//A string consists of opening and closing brackets.Write a program to check whether the string is balanced.
 #include <iostream>
 #include <map>
 #include <string>
